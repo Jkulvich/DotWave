@@ -1,0 +1,6 @@
+C:\Users\JK98V\Desktop\LMD.libPack\DotWave\DotWave\bin\Debug\DotWave.exe.config
+C:\Users\JK98V\Desktop\LMD.libPack\DotWave\DotWave\bin\Debug\DotWave.exe
+C:\Users\JK98V\Desktop\LMD.libPack\DotWave\DotWave\bin\Debug\DotWave.pdb
+C:\Users\JK98V\Desktop\LMD.libPack\DotWave\DotWave\obj\Debug\DotWave.csprojResolveAssemblyReference.cache
+C:\Users\JK98V\Desktop\LMD.libPack\DotWave\DotWave\obj\Debug\DotWave.exe
+C:\Users\JK98V\Desktop\LMD.libPack\DotWave\DotWave\obj\Debug\DotWave.pdb
